@@ -27,24 +27,19 @@ The mobile application receives data from the patch and presents it in an access
 
 Here are some visuals from our prototype development:
 
-![Landing Page 1](Prototype/Landing Page 1.jpg)
-![Landing Page 2](Prototype/Landing Page 2.jpg)
-![Landing Page 3](Prototype/Landing Page 3.jpg)
-![Landing Page 4](Prototype/Landing Page 4.jpg)
-![Landing Page 5](Prototype/Landing Page 5.jpg)
-![Landing Page 6](Prototype/Landing Page 6.jpg)
-![Landing Page 7](Prototype/Landing Page 7.jpg)
+![Landing Page 1](Prototype/Landing_Page_1.jpg)
+![Landing Page 2](Prototype/Landing_Page_2.jpg)
+![Landing Page 3](Prototype/Landing_Page_3.jpg)
+![Landing Page 4](Prototype/Landing_Page_4.jpg)
 
 ## Analysis and Output
 
 The following outputs showcase the data analysis capabilities and visualizations developed as part of our project:
 
-![Analysis Output 1](Analysis/Output 1.png)
-![Analysis Output 2](Analysis/Output 2.png)
-![Analysis Output 3](Analysis/Output 3.png)
+![Analysis Output 1](Analysis/Output_1.png)
+![Analysis Output 2](Analysis/Output_2.png)
+![Analysis Output 3](Analysis/Output_3.png)
 
 ## Development and Collaboration
 
 This project is developed as a collaborative effort between students from diverse backgrounds in design, technology, and business. We are open to feedback and contributions to improve the solution.
-
-For detailed technical documentation and project reports, refer to [IDTB Final Pres.pdf](IDTB%20Final%20Pres.pdf).
